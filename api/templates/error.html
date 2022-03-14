@@ -1,0 +1,15 @@
+{% extends 'base.html' %}
+
+{% block head %}
+    <title>Error!</title>
+{% endblock %}
+
+{% block body %}
+    <img id="error-image" src="../static/error.png">
+    <br>
+    <br>
+    <p id="error-para">Please provide an image of correct format</p>
+    <form action="/">
+        <input id="back-btn", type="submit" value="BACK">
+    </form>    
+{% endblock %}
