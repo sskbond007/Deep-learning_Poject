@@ -1,0 +1,22 @@
+{% extends 'base.html' %}
+
+{% block head %}
+    <title>Predictions</title>
+{% endblock %}
+
+
+{% block body %}
+    <img  id="received-image" src="../temp/preview.png", id="Preview">
+    <p id="received-para">
+        <br><br>
+        {{ predicted_class }} 
+        <br><br>
+        {{ confidence }}
+        <br><br>
+        {{ executionTime }} sec.
+        <form action="/">
+            <input id="back-btn", type="submit" value="BACK">
+        </form>    
+    </p>
+
+{% endblock %}
