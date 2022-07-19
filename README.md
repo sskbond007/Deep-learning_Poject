@@ -43,7 +43,7 @@ Backend Server:
 
 Frontend Website:
 
-* Build from HTML, CSS, Bootstrap and JavaScript.
+* Build from HTML, CSS JavaScript.
 * Provides an interface which user can easily understand and interact.
 
 > For Mobile App
