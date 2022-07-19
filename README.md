@@ -1,4 +1,4 @@
-# Deep-learning_Poject
+# Deep-learning_Project
 
 Repository for SEM-4 project
 
@@ -45,7 +45,6 @@ Frontend Website:
 
 * Build from HTML, CSS, Bootstrap and JavaScript.
 * Provides an interface which user can easily understand and interact.
-*  Website Link - https://potdispred.herokuapp.com/
 
 > For Mobile App
 
@@ -53,11 +52,17 @@ Model Optimisation:
 
 * Reduce model size with the help of Tensorflow Lite for mobile app.
 
-Deployment in GCP(Google Cloud Platform):
+Deployment in Heroku:
 
 * Optimised model is deployed in cloud server and waiting for images to predict results.
-
+* Website Link - https://potdispred.herokuapp.com/
+![alt text](https://github.com/Deep-Jay/Deep-learning_Project/blob/main/api/static/websiteFront.jpg?raw=true)
 Mobile App:
 
-* Developed in React Native.
-* Takes photo and sends to GCP(Google Cloud Platform) where the model predicts and results are sent and show in the app.
+* Developed in Fluter.
+* Model is in-built in the app using Tensorflow Lite.
+* Download app form here - https://github.com/Deep-Jay/Dispred/releases/download/v1.1.0/Dispred.apk
+
+Splash Screen | Navigation Menu
+:----------------------------------------:|:---------------------------------------------:
+![alt text 1](https://github.com/Deep-Jay/Deep-learning_Project/blob/main/api/static/appSplash.jpg?raw=true) | ![alt text 2](https://github.com/Deep-Jay/Deep-learning_Project/blob/main/api/static/appSplash1.jpg?raw=true)
