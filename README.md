@@ -63,6 +63,6 @@ Mobile App:
 * Model is in-built in the app using Tensorflow Lite.
 * Download app form here - https://github.com/Deep-Jay/Dispred/releases/download/v1.1.0/Dispred.apk
 
-Splash Screen | Navigation Menu
+Splash Screen | Navigation
 :----------------------------------------:|:---------------------------------------------:
 ![alt text 1](https://github.com/Deep-Jay/Deep-learning_Project/blob/main/api/static/appSplash.jpg?raw=true) | ![alt text 2](https://github.com/Deep-Jay/Deep-learning_Project/blob/main/api/static/appSplash1.jpg?raw=true)
